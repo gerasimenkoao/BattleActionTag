@@ -1,5 +1,7 @@
 Battle Action Tag (BAT) - radar-style if shoot direction and intensivity
 
+Prototype video: https://youtu.be/wzRuDxuIYS0
+
 The direction determination range is 180 degrees.
 Accuracy - 9 degrees.
 The sector with the number of shots up to 4 is highlighted in blue, 5-9 - green, more - red.
